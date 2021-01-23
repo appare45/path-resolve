@@ -1,0 +1,19 @@
+{
+  "name": "resolve-path",
+  "version": "1.0.0",
+  "description": "Resoleve the path for previewing locally.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appare45/path-resolve.git"
+  },
+  "author": "appare45",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/appare45/path-resolve/issues"
+  },
+  "homepage": "https://github.com/appare45/path-resolve#readme"
+}
