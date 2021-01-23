@@ -1,7 +1,7 @@
 {
   "name": "resolve-path",
   "version": "1.0.0",
-  "description": "Resoleve the path for previewing locally.",
+  "description": "Resolve the path for previewing locally.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
