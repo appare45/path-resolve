@@ -1,5 +1,5 @@
 {
-  "name": "resolve-path",
+  "name": "path-resolve-for-local-preview",
   "version": "1.0.0",
   "description": "Resolve the path for previewing locally.",
   "main": "app.js",
@@ -9,13 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/appare45/path-resolve.git"
+    "url": "git+https://github.com/appare45/path-resolve-for-local-preview.git"
   },
   "author": "appare45",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/appare45/path-resolve/issues"
+    "url": "https://github.com/appare45/path-resolve-for-local-preview/issues"
   },
-  "homepage": "https://github.com/appare45/path-resolve#readme",
-  "private": true
+  "homepage": "https://github.com/appare45/path-resolve-for-local-preview#readme"
 }
